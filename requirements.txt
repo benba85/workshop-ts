@@ -1,0 +1,8 @@
+pandas
+pandas_datareader
+numpy
+matplotlib
+tensorflow
+keras
+sklearn
+plotly
